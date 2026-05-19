@@ -1,5 +1,5 @@
 ## Hi friends 🙃
-# Happy to see you here! Look around, reach out, let's colaborate! 
+## Happy to see you here! Look around, reach out, let's colaborate! 
 
 <!--
 **GesaLoof/GesaLoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
