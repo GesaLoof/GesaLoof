@@ -21,6 +21,11 @@ A PyTorch pipeline to train a U-Net for segmenting nuclei in electron microscopy
 
 **[Coderr](https://github.com/GesaLoof/coderr)** · [Live site](https://gesaloof.com)
 Backend for an online marketplace where people can offer and book freelance programming work — built during my backend development bootcamp. I built the backend (Django); frontend was provided/built separately. Deployed and live, running on Docker, Nginx, and Gunicorn on a Google Cloud VM. `Python` `Django` `Docker` `Nginx` `Gunicorn` `GCP`
+
+## Get in touch
+
+- 📫 Email: loofgesa@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
 <!--
 **GesaLoof/GesaLoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
