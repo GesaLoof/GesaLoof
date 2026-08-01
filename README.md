@@ -25,7 +25,7 @@ Backend for an online marketplace where people can offer and book freelance prog
 ## Get in touch
 
 - 📫 Email: loofgesa@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [LinkedIn](www.linkedin.com/in/gesa-loof-005621290)
 <!--
 **GesaLoof/GesaLoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
